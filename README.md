@@ -1,5 +1,5 @@
 # Slanted-Edge-MTF
-Program developed for Ruda-Cardinal. Based on C++ and calls Python for data processing. 
+Based on C++. Calls Python for data processing. 
 
 This program was designed to interface with an Imperx Bobcat 2.0 CCD camera to analyze video image data, perform calculations, and plot results. The program is currently unfinished, and still requires a complete plotting function. For the purpose of testing, the program uses a static image instead of live video feed. This program is still a work in progress, and any feedback is appreciated. 
 
